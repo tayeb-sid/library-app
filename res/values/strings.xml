@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="add_btn">Add</string>
+    <string name="update_btn">Update</string>
+    <string name="delete_btn">Delete</string>
+    <string name="empty">Empty</string>
+    <string name="title">Book Title</string>
+    <string name="author">Author</string>
+    <string name="nb_pages">Number of pages</string>
+
+</resources>
